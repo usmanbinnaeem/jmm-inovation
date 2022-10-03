@@ -1,0 +1,94 @@
+.component-40-2,
+.component-40-1 {
+  cursor: pointer;
+  display: flex;
+  position: relative;
+  width: 330px;
+}
+
+.group-640,
+.group-640.group-6,
+.group-640.group-6-3 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  min-width: 330px;
+}
+
+.overlap-group-37 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 421px;
+  margin-top: -0.5px;
+  min-width: 331px;
+  padding: 23.5px 21.5px;
+}
+
+.group-633-5 {
+  display: flex;
+  flex-direction: column;
+  height: 315px;
+  width: 276px;
+}
+
+.customer-experience {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 2px;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.providing-pleasant-c {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 2.5px;
+  margin-right: -2px;
+  margin-top: 13.5px;
+}
+
+.group-640.group-6-2 .overlap-group-37,
+.group-640.component-25-1 .overlap-group-37,
+.group-640.component-25-2 .overlap-group-37 {
+  height: 229px;
+}
+
+.group-640.group-6-2 .group-633-5,
+.group-640.component-25-1 .group-633-5,
+.group-640.component-25-2 .group-633-5,
+.group-640.group-6 .group-633-5 {
+  height: 139px;
+}
+
+.group-640.group-6-2 .customer-experience {
+  width: 185px;
+}
+
+.group-640.group-6 .overlap-group-37 {
+  height: 251px;
+}
+
+.group-640.group-6 .customer-experience {
+  flex: 1;
+  margin-right: 20px;
+  max-height: 24px;
+  width: unset;
+}
+
+.group-640.component-25-1,
+.group-640.component-25-2 {
+  height: 228px;
+  margin-left: 29px;
+}
+
+.group-640.component-25-1 .customer-experience,
+.group-640.component-25-2 .customer-experience {
+  width: 122px;
+}

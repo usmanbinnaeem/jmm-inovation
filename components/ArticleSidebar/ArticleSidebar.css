@@ -1,0 +1,128 @@
+.group-547-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 286px;
+  justify-content: center;
+  margin-left: 0.36px;
+  min-width: 346px;
+}
+
+.overlap-group-81 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 25px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: -0.5px;
+  min-height: 287px;
+  padding: 24.8px 34.0px;
+  width: 347px;
+}
+
+.surname-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 5px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.group-449-7 {
+  display: flex;
+  flex-direction: column;
+  height: 147px;
+  justify-content: space-between;
+  margin-left: 0.49px;
+  margin-top: 22px;
+  width: 276px;
+}
+
+.group-450-6 {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 42.74px;
+  justify-content: space-between;
+  margin-right: 16.0px;
+  max-height: 42.74px;
+}
+
+.article-title-here-1 {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 5.1px;
+  margin-top: 2.5px;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.component-1-1 {
+  flex: 1;
+  height: 2.54px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  max-height: 2.54px;
+  object-fit: cover;
+}
+
+.lorem-ipsum-dolor-si-35 {
+  flex: 1;
+  height: 88.43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 2.5px;
+  margin-left: 5.1px;
+  margin-right: -2.0px;
+  max-height: 88.43px;
+}
+
+.read-more-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 21px;
+  min-height: 21px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.group-547-2.group-548 {
+  margin-left: 0;
+  margin-top: 27px;
+}
+
+.group-547-2.group-548 .overlap-group-81,
+.group-547-2.group-549 .overlap-group-81 {
+  padding: 25.2px 34.0px;
+}
+
+.group-547-2.group-548 .surname-1,
+.group-547-2.group-549 .surname-1 {
+  margin-top: 4px;
+}
+
+.group-547-2.group-548 .group-449-7,
+.group-547-2.group-549 .group-449-7 {
+  margin-top: 23px;
+}
+
+.group-547-2.group-548 .group-450-6,
+.group-547-2.group-549 .group-450-6 {
+  height: 42.74px;
+  max-height: 42.74px;
+}
+
+.group-547-2.group-548 .read-more-1,
+.group-547-2.group-549 .read-more-1 {
+  margin-top: 20px;
+}
+
+.group-547-2.group-549 {
+  margin-left: 0.64px;
+  margin-top: 27px;
+}
+

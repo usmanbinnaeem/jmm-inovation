@@ -1,0 +1,142 @@
+.group-567-3 {
+  display: flex;
+  height: 201px;
+  left: 367px;
+  position: absolute;
+  top: 145px;
+  width: 632px;
+}
+
+.group-420-3 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 201px;
+}
+
+.group-502-3 {
+  display: flex;
+  flex-direction: column;
+  height: 66px;
+  justify-content: space-between;
+  width: 488px;
+}
+
+.news-feed-and-updates {
+  flex: 1;
+  height: 51px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: -2px;
+  margin-top: 4.5px;
+  max-height: 51px;
+  white-space: nowrap;
+}
+
+.rectangle-170-3 {
+  background: linear-gradient(
+    90deg,
+    rgba(74, 204, 196, 0) -8.84%,
+    rgba(76, 197, 196, 0.02) -0.09%,
+    rgba(84, 178, 198, 0.09) 9.93%,
+    rgba(74, 204, 196, 0.31) 39.42%,
+    rgba(116, 102, 205, 0.35) 45.88%,
+    rgba(139, 47, 210, 0.54) 55.66%,
+    rgba(143, 38, 211, 0.57) 59.06%,
+    #ff4d00 98.89%
+  );
+  flex: 1;
+  height: 3px;
+  margin-left: 4px;
+  max-height: 3px;
+}
+
+.lorem-ipsum-dolor-si-26 {
+  height: 54px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 6px;
+  width: 634px;
+}
+
+.group-503 {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  justify-content: center;
+  margin-right: 2px;
+  margin-top: 18px;
+  min-width: 604px;
+}
+
+.overlap-group-69 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 605px;
+  padding: 6.8px 9.3px;
+}
+
+.enter-your-email-address {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 0px;
+  min-height: 21px;
+  background-color: transparent;
+  border: none;
+  min-width: 220px;
+  white-space: nowrap;
+}
+
+.enter-your-email-address:focus {
+  outline: none;
+}
+
+.group-568-3 {
+  align-items: flex-start;
+  background-image: url(/static/img/subtraction-1-4@1x.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-left: 202px;
+  min-width: 161px;
+  padding: 7.5px 45px;
+}
+
+
+input[type="submit"] {
+  letter-spacing: 0.02px;
+  min-height: 30px;
+  white-space: nowrap;
+  background-color: transparent;
+  border: none;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.group-567-3.group-567-4 {
+  top: 97px;
+}
+
+.group-567-3.group-567-4 .group-568-3,
+.group-567-3.group-567-5 .group-568-3 {
+  background-image: url(/static/img/subtraction-1-1@1x.png);
+}
+
+.group-567-3.group-567-5 {
+  left: unset;
+  position: unset;
+  top: unset;
+}

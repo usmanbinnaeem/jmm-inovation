@@ -1,0 +1,491 @@
+.services {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 3270px;
+  overflow: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.overlap-group3-16 {
+  height: 3544px;
+  margin-top: -273px;
+  position: relative;
+  width: 1433px;
+  z-index: 1;
+}
+
+.rectangle-177-16 {
+  background-color: var(--black);
+  height: 318px;
+  left: 0;
+  position: absolute;
+  top: 273px;
+  width: 1366px;
+}
+
+.component-107-1 {
+  background-color: var(--eerie-black);
+  height: 2760px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1050px;
+  width: 1366px;
+  /* z-index: 2; */
+  opacity: 1;
+}
+
+.component-106-1 {
+  height: 993px;
+  left: -350px;
+  object-fit: cover;
+  position: absolute;
+  top: -150;
+  width: 993px;
+}
+
+.component-105-1 {
+  height: 993px;
+  left: 780px;
+  object-fit: cover;
+  position: absolute;
+  top: 330;
+  width: 993px;
+  z-index: 0.1;
+}
+
+.services-2 {
+  left: 143px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  top: 494px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-18 {
+  height: 92px;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 586px;
+  width: 933px;
+}
+
+.using-technological {
+  left: 167px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 873px;
+  width: 933px;
+}
+
+.component-93-1 {
+  height: 3px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 571px;
+  width: 222px;
+}
+
+.group-452-16 {
+  display: flex;
+  height: 52px;
+  left: 167px;
+  position: absolute;
+  top: 808px;
+  width: 558px;
+}
+
+.group-452-15 {
+  display: flex;
+  flex: 1;
+  height: 52px;
+}
+
+.technology-development {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 560px;
+}
+
+.testing {
+  position: absolute;
+  top: 1280px;
+  left: 0px;
+  width: 1366px;
+  height: 710px;
+  background: #000c1c 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.group-615-1 {
+  display: flex;
+  flex-direction: column;
+  height: 89px;
+  justify-content: space-between;
+  left: 150px;
+  position: absolute;
+  top: 1317px;
+  width: 933px;
+}
+
+.group-614-1 {
+  display: flex;
+  width: 284px;
+}
+
+.data-cloud {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.providing-a-cloud-co-2 {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 2.5px;
+  margin-right: -2px;
+  max-height: 21px;
+  white-space: nowrap;
+}
+
+.outsourcing-organiza {
+  left: 167px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 2101px;
+  width: 933px;
+}
+
+.transf-paragraph {
+  margin-top: 15px;
+  line-height: 25px;
+}
+
+.group-620-1 {
+  /* display: flex; */
+  height: 54px;
+  left: 167px;
+  position: absolute;
+  top: 2036px;
+  width: 841px;
+}
+
+.group-452-17 {
+  display: flex;
+  flex: 1;
+  height: 54px;
+}
+
+.transformation-professional-services {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  width: 843px;
+}
+
+.group-637-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 486px;
+  left: 159px;
+  min-width: 1048px;
+  position: absolute;
+  top: 1460px;
+}
+
+.component-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 486px;
+  position: relative;
+  width: 330px;
+}
+
+.group-639-3 {
+  display: flex;
+  height: 360px;
+  justify-content: space-between;
+  left: 159px;
+  position: absolute;
+  top: 2222px;
+  width: 1048px;
+}
+
+.group-594-2 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.4px;
+  position: relative;
+  width: 689px;
+}
+
+.group-639-4 {
+  display: flex;
+  height: 360px;
+  justify-content: space-between;
+  left: 159px;
+  position: absolute;
+  top: 2612px;
+  width: 1048px;
+}
+
+.group-594-3 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+  position: relative;
+  width: 689px;
+}
+
+.group-639-5 {
+  display: flex;
+  height: 420px;
+  justify-content: space-between;
+  left: 159px;
+  position: absolute;
+  top: 3003px;
+  width: 689px;
+}
+
+.group-641-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 250px;
+  left: 159px;
+  min-width: 1048px;
+  position: absolute;
+  top: 976px;
+}
+
+.group-610 {
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 433px;
+  width: 1366px;
+  z-index: 2;
+}
+
+.group-356-9 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-top: 80.4px;
+  min-height: calc(100% - 80px);
+  width: 1366px;
+}
+
+.group-container-70 {
+  align-items: flex-start;
+  display: flex;
+  height: 185px;
+  margin-right: 63.99px;
+  min-width: 1170px;
+  position: relative;
+}
+
+.group-609 {
+  align-items: flex-end;
+  background-color: var(--cod-gray);
+  display: flex;
+  height: 87px;
+  justify-content: flex-end;
+  margin-top: 81px;
+  min-width: 1366px;
+  padding: 27px 471px;
+}
+
+.copyrights-2021-ai {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 388px;
+  white-space: nowrap;
+}
+
+.component-31-1 {
+  display: flex;
+  height: 228px;
+  margin-left: 29px;
+  position: relative;
+  width: 330px;
+}
+
+.component-31-1.component-28-10 {
+  height: 250px;
+}
+
+.group-640,
+.group-640.group-6,
+.group-640.group-6-3 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  min-width: 330px;
+}
+
+.overlap-group-37 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 421px;
+  margin-top: -0.5px;
+  min-width: 331px;
+  padding: 23.5px 21.5px;
+}
+
+.group-633-5 {
+  display: flex;
+  flex-direction: column;
+  height: 315px;
+  width: 276px;
+}
+
+.customer-experience {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 2px;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.providing-pleasant-c {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 2.5px;
+  margin-right: -2px;
+  margin-top: 13.5px;
+}
+
+.group-640.group-6-2 .overlap-group-37,
+.group-640.component-25-1 .overlap-group-37,
+.group-640.component-25-2 .overlap-group-37 {
+  height: 229px;
+}
+
+.group-640.group-6-2 .group-633-5,
+.group-640.component-25-1 .group-633-5,
+.group-640.component-25-2 .group-633-5,
+.group-640.group-6 .group-633-5 {
+  height: 139px;
+}
+
+.group-640.group-6-2 .customer-experience {
+  width: 185px;
+}
+
+.group-640.group-6 .overlap-group-37 {
+  height: 251px;
+}
+
+.group-640.group-6 .customer-experience {
+  flex: 1;
+  margin-right: 20px;
+  max-height: 24px;
+  width: unset;
+}
+
+.group-640.component-25-1,
+.group-640.component-25-2 {
+  height: 228px;
+  margin-left: 29px;
+}
+
+.group-640.component-25-1 .customer-experience,
+.group-640.component-25-2 .customer-experience {
+  width: 122px;
+}
+
+.component-32-1 {
+  display: flex;
+  height: 228px;
+  margin-left: 29px;
+  width: 330px;
+}
+
+.group-63 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  min-width: 330px;
+}
+
+.overlap-group-64 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 229px;
+  margin-top: -0.5px;
+  min-width: 331px;
+  padding: 23.5px 21.5px;
+}
+
+.group-6-1 {
+  display: flex;
+  flex-direction: column;
+  height: 141px;
+  width: 276px;
+}
+
+.infrastructure-services {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 18px;
+  width: 214px;
+}
+
+.outsourcing-organiza-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 2.5px;
+  margin-right: -2px;
+  margin-top: 15.5px;
+}
+
+.component-32-1.component-29-1 {
+  height: 250px;
+}
+
+.component-32-1.component-29-1 .overlap-group-64 {
+  height: 251px;
+}
+
+.component-32-1.component-29-1 .infrastructure-services {
+  width: 193px;
+}

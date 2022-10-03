@@ -1,0 +1,64 @@
+.group-512-15 {
+  align-items: flex-end;
+  display: flex;
+  height: 282px;
+  left: 0;
+  min-width: 64px;
+  position: fixed;
+  top: 243px;
+  z-index: 7;
+}
+
+.overlap-group8-6 {
+  height: 282px;
+  margin-bottom: 0;
+  position: relative;
+  width: 64px;
+}
+
+.rectangle-172-24 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.group-511-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 7px;
+  min-height: 272px;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.component-18-13 {
+  height: 49px;
+  object-fit: cover;
+  width: 49px;
+}
+
+.component-3 {
+  height: 49px;
+  margin-top: 25px;
+  object-fit: cover;
+  width: 50px;
+}
+
+.component-59-1 {
+  height: 50px;
+  margin-top: 25px;
+  object-fit: cover;
+  width: 50px;
+}
+
+@media only screen and (max-width: 390px) {
+  .s-hide {
+    display: none;
+  }
+}

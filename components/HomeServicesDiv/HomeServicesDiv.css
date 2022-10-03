@@ -1,0 +1,43 @@
+.component-24-1,
+.component-24-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 228px;
+  justify-content: center;
+  min-width: 330px;
+  padding: 0px 25px;
+}
+
+.technolog-container,
+.technolog-container-1 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  flex-direction: column;
+  margin-top: -0.5px;
+  min-height: 229px;
+  padding: 25.5px 21.5px;
+  width: 331px;
+}
+
+.technology-development-1,
+.technology-development-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.using-technological-3,
+.using-technological-4 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 14px;
+  min-height: 96px;
+  width: 276px;
+}
+

@@ -1,0 +1,82 @@
+.product-page-4 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1400px;
+  position: relative;
+  width: 1366px;
+  z-index: 1;
+}
+
+.web-1366-20-1 {
+  height: 683px;
+  object-fit: cover;
+  width: 1366px;
+  z-index: 2;
+}
+
+.group-3554-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 153.0px;
+  margin-top: 80px;
+  min-height: 493px;
+  padding: 2.5px 0;
+  width: 935px;
+  z-index: 4;
+}
+
+.kiu-web-portal {
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-top: 4px;
+  min-height: 69px;
+  white-space: nowrap;
+}
+
+.component-123-1 {
+  height: 3px;
+  margin-left: 5.49px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 222px;
+}
+
+.lorem-ipsum-dolor-si-31 {
+  height: 92px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 2px;
+  margin-top: 13px;
+  width: 933px;
+}
+
+.lorem-ipsum-dolor-si-32 {
+  height: 284px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 2px;
+  margin-top: 16px;
+  width: 933px;
+}
+
+.group-3582 {
+  display: flex;
+  height: 433px;
+  margin-top: 110px;
+  width: 1366px;
+  z-index: 1;
+}
+
+.footer {
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  position: relative;
+  width: 1366px;
+}
+

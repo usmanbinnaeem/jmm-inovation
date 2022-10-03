@@ -1,0 +1,146 @@
+.component-54-3 {
+  display: flex;
+  height: 276px;
+  width: 432px;
+}
+
+.group-474-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 432px;
+}
+
+.overlap-group1-49 {
+  border-radius: 8px;
+  height: 277px;
+  margin-left: -1px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 433px;
+}
+
+.overlap-group-84 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  box-shadow: 0px 3px 25px #0000000d;
+  display: flex;
+  height: 277px;
+  left: 0;
+  min-width: 433px;
+  position: absolute;
+  top: 0;
+}
+
+.component-6-4 {
+  height: 216px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 432px;
+}
+
+.knowledge-international-university-3 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.component-54-3.group-3561-2,
+.component-54-3.group-3561-3 {
+  align-self: flex-end;
+  margin-right: 0;
+}
+
+.component-54-3.group-3561-2 .group-474-9,
+.component-54-3.group-3561-3 .group-474-9 {
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+.component-54-3.group-3561-2 .overlap-group1-49,
+.component-54-3.group-3561-3 .overlap-group1-49 {
+  margin-left: unset;
+}
+
+/* @media only screen and (max-width: 390px) {
+  .component-54-3 {
+    display: flex;
+    height: 276px;
+    max-width: 360px;
+  }
+  
+  .group-474-9 {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    width: 360px;
+  }
+
+  .overlap-group1-49 {
+    border-radius: 8px;
+    height: 277px;
+    margin-left: 263px;
+    margin-top: -0.5px;
+    position: relative;
+    width: 360px;
+  }
+
+  .overlap-group-84 {
+    align-items: flex-start;
+    background-color: var(--white-3);
+    border: 1px solid;
+    border-color: var(--white-2);
+    border-radius: 8px;
+    box-shadow: 0px 3px 25px #0000000d;
+    display: flex;
+    height: 277px;
+    left: 0;
+    width: 260px;
+    position: absolute;
+    top: 0;
+  }
+
+  .component-6-4 {
+    height: 216px;
+    margin-top: -0.5px;
+    object-fit: cover;
+    min-width: 360px;
+  }
+
+  .knowledge-international-university-3 {
+    letter-spacing: 0;
+    line-height: 18px;
+    position: absolute;
+    top: 240px;
+    white-space: nowrap;
+  }
+
+  .component-54-3.group-3561-2,
+.component-54-3.group-3561-3 {
+  align-self: flex-start;
+  margin-right: 0;
+}
+
+.component-54-3.group-3561-2 .group-474-9,
+.component-54-3.group-3561-3 .group-474-9 {
+  justify-content: flex-start;
+  margin-bottom: 0;
+  margin-left: 263px;
+  margin-right: 0;
+  margin-top: 20px;
+}
+
+.component-54-3.group-3561-2 .overlap-group1-49,
+.component-54-3.group-3561-3 .overlap-group1-49 {
+  margin-left: unset;
+}
+} */

@@ -1,0 +1,457 @@
+.contact-us-17 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 912px;
+  position: relative;
+  width: 1366px;
+}
+
+.overlap-group9-3 {
+  height: 912px;
+  position: relative;
+  width: 1366px;
+  z-index: 1;
+}
+
+.rectangle-177-18 {
+  /* background-color: var(--black); */
+  height: 318px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.overlap-group5-2 {
+  align-items: flex-start;
+  /* background-position: 50% 50%; */
+  /* background-size: cover; */
+  display: flex;
+  height: 858px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1366px;
+  padding: 85px 100px;
+  position: absolute;
+  top: 62px;
+}
+
+.group-454-1 {
+  display: flex;
+  height: 680px;
+  width: 1151px;
+}
+
+.group-452-20 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 680px;
+}
+
+.group-452-21 {
+  display: flex;
+  flex-direction: column;
+  height: 80px;
+  justify-content: space-between;
+  width: 314px;
+}
+
+.contact-us-18 {
+  flex: 1;
+  height: 69px;
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-left: 6px;
+  margin-right: -2px;
+  margin-top: 6px;
+  max-height: 69px;
+  white-space: nowrap;
+}
+
+.rectangle-157-8 {
+  background: linear-gradient(
+    90deg,
+    rgba(74, 204, 196, 0) -8.84%,
+    rgba(76, 197, 196, 0.02) -0.09%,
+    rgba(84, 178, 198, 0.09) 9.93%,
+    rgba(74, 204, 196, 0.31) 39.42%,
+    rgba(116, 102, 205, 0.35) 45.88%,
+    rgba(139, 47, 210, 0.54) 55.66%,
+    rgba(143, 38, 211, 0.57) 59.06%,
+    #ff4d00 98.89%
+  );
+  flex: 1;
+  height: 3px;
+  max-height: 3px;
+}
+
+.lorem-ipsum-dolor-si-29 {
+  height: 41px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 16px;
+  width: 924px;
+}
+
+.group-497-1 {
+  display: flex;
+  height: 521px;
+  justify-content: space-between;
+  margin-top: 22px;
+  width: 1151px;
+}
+
+.group-493-2 {
+  align-items: flex-end;
+  background-color: var(--licorice);
+  border-radius: 8px;
+  box-shadow: 0px 3px 25px #0000000d;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  padding: 24.6px 31.5px;
+  width: 631px;
+}
+
+.group-495-1 {
+  display: flex;
+  flex-direction: column;
+  height: 59px;
+  justify-content: space-between;
+  margin-right: 0.5px;
+  margin-top: 6px;
+  width: 564px;
+}
+
+.full-name {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 2px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.fullName,
+.emailaddr,
+.company,
+.country {
+  background-color: var(--white-3);
+  border-radius: 4px;
+  color: white;
+  border: none;
+  box-shadow: 0px 3px 10px #00000063;
+  flex: 1;
+  height: 37px;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  max-height: 37px;
+}
+
+.fullName,
+.emailaddr,
+.company,
+.country:focus {
+  outline: none;
+}
+
+.group-container-77 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0.5px;
+  margin-top: 15px;
+  min-width: 564px;
+}
+
+.group-4 {
+  display: flex;
+  flex-direction: column;
+  height: 59px;
+  justify-content: space-between;
+  width: 301px;
+}
+
+.companyDiv,
+.emailDiv {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 1px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.group-4-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 59px;
+  width: 245px;
+}
+
+.businessDiv {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 1px;
+  min-height: 20px;
+  min-width: 68px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.phone {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 1px;
+  margin-top: 2px;
+  min-height: 20px;
+  min-width: 68px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.phoneNo {
+  align-items: flex-end;
+  background-color: var(--white-3);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  margin-left: -0.5px;
+  min-width: 246px;
+  padding: 15px 11.7px;
+}
+
+.phoneNo:focus {
+  outline: none;
+}
+
+.chevron-down-1-1 {
+  height: 5px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.group-container-78 {
+  align-items: flex-start;
+  display: flex;
+  height: 59px;
+  margin-right: 0.5px;
+  margin-top: 15px;
+  min-width: 564px;
+}
+
+.group-496-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 59px;
+  width: 301px;
+}
+
+.email-address {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: 2px;
+  min-height: 20px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-72 {
+  align-items: flex-end;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 4px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 37px;
+  margin-left: -0.5px;
+  min-width: 302px;
+  padding: 6.5px 13.5px;
+}
+
+.youremailmailcom-1 {
+  background: transparent;
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 152px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.youremailmailcom-1:focus {
+  outline: none;
+}
+
+.phone-number {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: 2px;
+  min-height: 20px;
+  min-width: 110px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group2-21 {
+  align-items: flex-end;
+  background-color: var(--white-3);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 4px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 37px;
+  margin-left: 0.5px;
+  min-width: 245px;
+  padding: 6.5px 11.5px;
+}
+
+.text-388 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 26px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.countryDiv {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 3px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.city {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 6px;
+  margin-top: 2px;
+  min-height: 20px;
+  min-width: 28px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.business,
+.cities {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 3px 10px #00000063;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  margin-left: -0.5px;
+  min-width: 246px;
+  padding: 16px 13.7px;
+}
+
+.business,
+.cities:focus {
+  outline: none;
+}
+
+.overlap-group4-11 {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  height: 103px;
+  margin-top: 14px;
+  min-width: 565px;
+  padding: 16.5px 15.5px;
+}
+
+.type-here {
+  color: var(--quick-silver);
+  background: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 20px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+  resize: none;
+  border: none;
+}
+
+.type-here:focus {
+  outline: none;
+}
+
+.group-424-1 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-right: 0.74px;
+  margin-top: 24px;
+  min-width: 161px;
+  padding: 6.1px 40px;
+}
+
+.send-message {
+  letter-spacing: 0.02px;
+  line-height: 32px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.group-501-1 {
+  display: flex;
+  flex-direction: column;
+  height: 210.06px;
+  justify-content: space-between;
+  margin-top: 14.6px;
+  position: relative;
+  width: 487px;
+}
+
+.lorem-ipsum-dolor-si-30 {
+  flex: 1;
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-right: -2px;
+  margin-top: -4.5px;
+  max-height: 60px;
+}
+
+.group-container-79 {
+  height: 433px;
+  margin-top: 1px;
+  position: relative;
+  width: 1366px;
+  z-index: 3;
+}
+

@@ -1,0 +1,358 @@
+.component-23-16 {
+  display: flex;
+  height: 55px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1366px;
+  z-index: 9;
+}
+
+.group-510-30 {
+  display: flex;
+  flex: 1;
+  width: 1366px;
+}
+
+.group-509-30 {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  align-items: flex-start;
+  backdrop-filter: blur(30px) brightness(115%);
+  display: flex;
+  flex: 1;
+  min-width: 1366px;
+  padding: 18px 60px;
+}
+
+.group-container-39 {
+  height: 18px;
+  position: relative;
+  width: 1246px;
+}
+
+.group-508-33 {
+  display: flex;
+  height: 18px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1246px;
+}
+
+.group-505-25 {
+  display: flex;
+  margin-bottom: 0.5px;
+  width: 245px;
+}
+
+.group-364-20 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  min-width: 245px;
+  padding: 0 0px;
+  position: relative;
+}
+
+.path-133-48 {
+  height: 17px;
+  margin-bottom: 0;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.path-1337-24 {
+  height: 17px;
+  margin-bottom: 0;
+  margin-left: 10px;
+  object-fit: cover;
+  width: 4px;
+}
+
+.path-133-49 {
+  height: 17px;
+  margin-bottom: 0;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.path-134-24 {
+  align-self: flex-start;
+  height: 18px;
+  margin-left: 3px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 19px;
+}
+
+.path-container-56 {
+  height: 17px;
+  margin-bottom: 0;
+  position: relative;
+  width: 50px;
+}
+
+.path-1341-24 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.path-1342-24 {
+  height: 17px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.path-1343-24 {
+  height: 17px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.path-1344-24 {
+  height: 17px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 4px;
+}
+
+.path-1346-24 {
+  height: 17px;
+  margin-bottom: 0;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.path-1347-24 {
+  align-self: flex-start;
+  height: 18px;
+  margin-left: 3px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 14px;
+}
+
+.component-23-16.component-23-6 {
+  z-index: 9;
+}
+
+.component-23-16.bottom-nav {
+  z-index: 9;
+}
+
+.component-23-16.lower {
+  z-index: 9;
+}
+
+.component-23-16.component-23-2 {
+  z-index: 9;
+}
+
+.component-23-16.component-23-2 .group-364-20 {
+  justify-content: flex-end;
+  padding: unset;
+}
+
+.group-506-20 {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 0;
+  margin-top: 0.1px;
+  width: 51.89px;
+}
+
+.eng {
+  letter-spacing: 1.4px;
+  line-height: 14px;
+  margin-bottom: -4px;
+  margin-top: 2px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.chevron-down-2 {
+  height: 5.01px;
+  margin-right: 0;
+  margin-top: 6px;
+  object-fit: cover;
+  width: 8.77px;
+}
+
+.group-506-20.group-506-34 .chevron-down-2 {
+  width: 8.77px;
+}
+
+.component-22-13 {
+  display: flex;
+  height: 18px;
+  width: 174px;
+}
+
+.products-solutions-17 {
+  flex: 1;
+  letter-spacing: 1.4px;
+  line-height: 14px;
+  margin-bottom: -4px;
+  margin-right: -2px;
+  margin-top: 2px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.component-22-13.component-22-12,
+.component-22-13.component-22-12-1,
+.component-22-13.component-22-12-2,
+.component-22-13.component-22-12-3,
+.component-22-13.component-22-12-4,
+.component-22-13.component-22-12-5,
+.component-22-13.component-22-12-6,
+.component-22-13.component-22-12-7,
+.component-22-13.component-22-12-8,
+.component-22-13.component-22-12-9,
+.component-22-13.component-22-12-10,
+.component-22-13.component-22-12-11,
+.component-22-13.component-22-12-12,
+.component-22-13.component-22-12-13,
+.component-22-13.component-22-12-14,
+.component-22-13.component-22-12-15 {
+  margin-left: 38px;
+  width: 69px;
+}
+
+.component-22-13.component-22-12 .products-solutions-17,
+.component-22-13.component-22-12-1 .products-solutions-17,
+.component-22-13.component-22-12-2 .products-solutions-17,
+.component-22-13.component-22-12-3 .products-solutions-17,
+.component-22-13.component-22-12-4 .products-solutions-17,
+.component-22-13.component-22-12-5 .products-solutions-17,
+.component-22-13.component-22-12-6 .products-solutions-17,
+.component-22-13.component-22-12-7 .products-solutions-17,
+.component-22-13.component-22-12-8 .products-solutions-17,
+.component-22-13.component-22-12-9 .products-solutions-17,
+.component-22-13.component-22-12-10 .products-solutions-17,
+.component-22-13.component-22-12-11 .products-solutions-17,
+.component-22-13.component-22-12-12 .products-solutions-17,
+.component-22-13.component-22-12-13 .products-solutions-17,
+.component-22-13.component-22-12-14 .products-solutions-17,
+.component-22-13.component-22-12-15 .products-solutions-17 {
+  width: 69px;
+}
+
+.component-22-13.component-22-11,
+.component-22-13.component-22-11-1,
+.component-22-13.component-22-11-2,
+.component-22-13.component-22-11-3,
+.component-22-13.component-22-11-4,
+.component-22-13.component-22-11-5,
+.component-22-13.component-22-11-6,
+.component-22-13.component-22-11-7,
+.component-22-13.component-22-11-8,
+.component-22-13.component-22-11-9,
+.component-22-13.component-22-11-10,
+.component-22-13.component-22-11-11,
+.component-22-13.component-22-11-12,
+.component-22-13.component-22-11-13,
+.component-22-13.component-22-11-14,
+.component-22-13.component-22-11-15 {
+  margin-left: 38px;
+  width: 75px;
+}
+
+.component-22-13.component-22-11 .products-solutions-17,
+.component-22-13.component-22-11-1 .products-solutions-17,
+.component-22-13.component-22-11-2 .products-solutions-17,
+.component-22-13.component-22-11-3 .products-solutions-17,
+.component-22-13.component-22-11-4 .products-solutions-17,
+.component-22-13.component-22-11-5 .products-solutions-17,
+.component-22-13.component-22-11-6 .products-solutions-17,
+.component-22-13.component-22-11-7 .products-solutions-17,
+.component-22-13.component-22-11-8 .products-solutions-17,
+.component-22-13.component-22-11-9 .products-solutions-17,
+.component-22-13.component-22-11-10 .products-solutions-17,
+.component-22-13.component-22-11-11 .products-solutions-17,
+.component-22-13.component-22-11-12 .products-solutions-17,
+.component-22-13.component-22-11-13 .products-solutions-17,
+.component-22-13.component-22-11-14 .products-solutions-17,
+.component-22-13.component-22-11-15 .products-solutions-17 {
+  width: 75px;
+}
+
+.component-22-13.component-22-10,
+.component-22-13.component-22-10-1,
+.component-22-13.component-22-10-2,
+.component-22-13.component-22-10-3,
+.component-22-13.component-22-10-4,
+.component-22-13.component-22-10-5,
+.component-22-13.component-22-10-6,
+.component-22-13.component-22-10-7,
+.component-22-13.component-22-10-8,
+.component-22-13.component-22-10-9,
+.component-22-13.component-22-10-10,
+.component-22-13.component-22-10-11,
+.component-22-13.component-22-10-12,
+.component-22-13.component-22-10-13,
+.component-22-13.component-22-10-14,
+.component-22-13.component-22-10-15 {
+  margin-left: 38px;
+  width: 66px;
+}
+
+.component-22-13.component-22-10 .products-solutions-17,
+.component-22-13.component-22-10-1 .products-solutions-17,
+.component-22-13.component-22-10-2 .products-solutions-17,
+.component-22-13.component-22-10-3 .products-solutions-17,
+.component-22-13.component-22-10-4 .products-solutions-17,
+.component-22-13.component-22-10-5 .products-solutions-17,
+.component-22-13.component-22-10-6 .products-solutions-17,
+.component-22-13.component-22-10-7 .products-solutions-17,
+.component-22-13.component-22-10-8 .products-solutions-17,
+.component-22-13.component-22-10-9 .products-solutions-17,
+.component-22-13.component-22-10-10 .products-solutions-17,
+.component-22-13.component-22-10-11 .products-solutions-17,
+.component-22-13.component-22-10-12 .products-solutions-17,
+.component-22-13.component-22-10-13 .products-solutions-17,
+.component-22-13.component-22-10-14 .products-solutions-17,
+.component-22-13.component-22-10-15 .products-solutions-17 {
+  width: 66px;
+}
+
+.group-593,
+.group-593-1,
+.group-593-2,
+.group-593-3,
+.group-593-4,
+.group-593-5,
+.group-593-6,
+.group-593-7,
+.group-593-8,
+.group-593-9,
+.group-593-10,
+.group-593-11,
+.group-593-12,
+.group-593-13,
+.group-593-14,
+.group-593-15 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 375px;
+  min-width: 496px;
+  position: absolute;
+  top: 0;
+}
